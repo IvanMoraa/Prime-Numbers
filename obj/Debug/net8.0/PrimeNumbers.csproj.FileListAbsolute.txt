@@ -1,0 +1,14 @@
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.exe
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.deps.json
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.runtimeconfig.json
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\refint\PrimeNumbers.dll
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\mwora\OneDrive\Documentos\Stuff\c#\SimpleThings\PrimeNumbers\obj\Debug\net8.0\ref\PrimeNumbers.dll
